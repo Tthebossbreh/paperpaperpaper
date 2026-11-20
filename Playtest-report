@@ -1,3 +1,6 @@
 By playtesting, we found that our game works better in a digital environment. However, paper playtesting helps to excercise our mental abilities and imagination when it comes to understanding the mechanics of our game, mostly the ghost mechanic. 
 For example, it was a lot easier to understand just how the level was impacted by the ghosts themselves, such as how a ghost landing on a button would make a platform move, or a door open. 
 We started thinking of ideas for new levels, thinking about the chain of events that would have to happen for the player to reach the end of the level.
+While designing, we found that it was also important to think about the space that we have to work with in the levels.
+The puzzles get more complex as the levels progress, but we have the same amount of space. Not only that, but we have to think about the abilities that the player has, specifically the dash.
+This means that distance-based obstacles are harder to implement. This would be easier to test in a digital environment, as gravity and momentum are simulated better there than on paper.
