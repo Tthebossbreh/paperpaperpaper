@@ -1,0 +1,8 @@
+GAME LOOP:
+We wanted to create a two-dimensional platformer game with a twist, and what we decided on was the concept of progressing through failure. The idea we concluded with was a cat that could use the ghosts of its previous lives to complete the level, gaining a ghost to with each completed level. The primary gameplay loop is navigating through a level, trying to reach the end, and eventually failing in some way, with the reward being the information gathered. Then, the loop evolves into incorporating past lives into the level, such as using a previous ghost to hold down a button, where the reward is progression. Finally, the largest loop is completing a level, which unlocks the next.
+GAME MECHANICS:
+The primary mechanics include jumping, dashing, and clinging to walls in a familiar platform style. However, an additional included mechanic is the ability to give up, and let the ghost of the previous run move alongside you, mimicking how you acted during your run, and remaining where you were when you started the next run. They can be used to push buttons, or provide platforms to move across.
+GAME STRUCTURE:
+The game is sorted into nine chapters, each one granting an additional ghost you can use to solve puzzles across the map. Some courses are easier than others, but they should be increasingly more difficult as the player acquires more ghosts. The first level should take less than a minute, but later levels could possibly take ten depending on how long it takes for the player to solve the level.
+CORE STUFF:
+The world itself will be three-dimensional, but the main character, the cat, will be two-dimensional. The cat is an orange tabby and the background setting will be grassy hills with cream/brown dirt.
